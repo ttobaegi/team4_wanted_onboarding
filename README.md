@@ -15,7 +15,7 @@
     
 
 ### week 3 `클로젯셰어` DB를 활용한 유저 및 트렌드 분석
-- 분석 목적 : 이용자 별 구매 이력을 바탕으로 월별 트렌드 파악, 동질 특성을 가진 유저그룹 타겟마케팅 및 서비스 방안 모색**
+- **분석 목적 : 이용자 별 구매 이력을 바탕으로 월별 트렌드 파악, 동질 특성을 가진 유저그룹 타겟마케팅 및 서비스 방안 모색****
 - 개인 1차 분석 : https://nbviewer.jupyter.org/github/ttobaegi/team4_wanted_onboarding/blob/main/Inprocess/Jiin_onboarding_week3_analysis_v.0.1.ipynb
 - 개인 2차 분석 : https://nbviewer.jupyter.org/github/ttobaegi/team4_wanted_onboarding/blob/main/Inprocess/Jiin_onboarding_week3_analysis_v.2.0.ipynb
 - 최종 발표 (이지인, 윤준식) : https://nbviewer.jupyter.org/github/ttobaegi/team4_wanted_onboarding/blob/main/Team4_onboarding_week3_analysis.ipynb
