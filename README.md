@@ -2,7 +2,7 @@
 
 ## week 1 `원티드` 국민연금 DB를 활용한 유니콘 기업 분석
 - **분석 목적 : 국민연금 DB(연매출액, 연금보험료, 직원수 등)를 활용하여 유니콘 기업을 선별 후 해당 기업 채용 유치 및 컨텐츠 제안**
-- 개인 분석 : https://nbviewer.jupyter.org/github/ttobaegi/team4_wanted_onboarding/blob/main/Inprocess/Jiin_onboarding_week1_analysis_v.0.1.ipynb
+- 개인 분석 통합본 : https://nbviewer.jupyter.org/github/ttobaegi/team4_wanted_onboarding/blob/main/Inprocess/Jiin_onboarding_week1_analysis_v.0.1.ipynb
 - 최종 발표 (송재환) : https://nbviewer.jupyter.org/github/ttobaegi/team4_wanted_onboarding/blob/main/Team4_onboarding_week1_analysis.ipynb
 
 ###  
