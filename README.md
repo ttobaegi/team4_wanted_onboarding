@@ -1,5 +1,5 @@
 # 프리온보딩코스 (2021.05)
-( team4 : 박찬서 김동섭 송재환 윤준식 이지인 황낙주 )
+( team4 : 박찬서 김동섭 송재환 윤준식 [이지인](https://github.com/ttobaegi?tab=repositories) 황낙주 )
 ### 
 
 ## week 1 `원티드` 국민연금 DB를 활용한 유니콘 기업 분석
