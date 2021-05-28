@@ -14,7 +14,7 @@
 * 분석 방향성 
   * 요일/월별 트렌드, 유저상태(잠수/비활성/활성유저) 및 유저loyalty(누적이용횟수기준) 그룹핑 기반 이용 트렌드, cohort retention분석
   * 예측 모델 : RandomForest, XGBoost, LightGBM
-  * 
+  
 > [최종 발표](https://nbviewer.jupyter.org/github/ttobaegi/team4_wanted_onboarding/blob/main/Team4_onboarding_week2_analysis.ipynb) (황낙주, 박찬서)
 
 ### 
