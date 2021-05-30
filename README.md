@@ -6,6 +6,7 @@
 * **원티드 국민연금 DB를 활용한 유니콘 기업 분석**
 * 회사별 연매출액, 월별 연금보험료, 월별 직원 수 데이터 + 실제 유니콘 기업 데이터
 * Feature engineering 을 통한 유니콘 지수 개발 및 Clustering
+
 > [개인 분석](https://nbviewer.jupyter.org/github/ttobaegi/team4_wanted_onboarding/blob/main/Inprocess/Jiin_onboarding_week1_analysis_v.3.0.ipynb)
 > 
 > [최종 발표](https://nbviewer.jupyter.org/github/ttobaegi/team4_wanted_onboarding/blob/main/Team4_onboarding_week1_analysis.ipynb) (송재환) 
